@@ -23,20 +23,20 @@ Nirnaya is an innovative project aimed at revolutionizing the way farmers choose
 
 ## Interface of the project
 ### Homepage
-![Homepage](https://github.com/satyamsoni228/Nirnaya/assets/62495706/5e5f1876-8ea4-4d01-a651-b65b9f002803)
+![Homepage](https://github.com/satyamsoni228/Nirnaya-new/assets/62495706/b7fa225b-1ad2-45bc-8c69-cc857d199143)
 
 ### Crop Prediction based on locality and seasons
-![Crop Prediction based on locality and seasons](https://github.com/satyamsoni228/Nirnaya/assets/62495706/008e0b1a-36ae-476c-93bf-aeb7a1e23d38)
+![Crop Prediction based on locality and seasons](https://github.com/satyamsoni228/Nirnaya-new/assets/62495706/efbf3abf-d042-4d29-86d8-550fb4ae068e)
 
 ### Crop prediction based on soil fertility
-![Crop prediction based on soil fertility](https://github.com/satyamsoni228/Nirnaya/assets/62495706/ad97af50-2b2a-4258-98b8-85eb1b87a24d)
+![Crop prediction based on soil fertility](https://github.com/satyamsoni228/Nirnaya-new/assets/62495706/934aa542-d30a-4f88-b976-9e05c39e1d58)
 
 ### Crop Analytics.
-![Crop Analytics](https://github.com/satyamsoni228/Nirnaya/assets/62495706/1217197f-000f-4bf2-8cee-a137c64d5e61)
+![Crop Analytics](https://github.com/satyamsoni228/Nirnaya-new/assets/62495706/1071a75d-240a-4188-bbfc-36613388ccb7)
 
 
 ### Individual Crop Prediction - Ex: Arhar
-![Individual Crop Prediction (Arhar)](https://github.com/satyamsoni228/Nirnaya/assets/62495706/4bab59e8-a967-422e-9834-39882af6627a)
+![Individual Crop Prediction (Arhar)](https://github.com/satyamsoni228/Nirnaya-new/assets/62495706/57844ff5-0b91-4c94-9552-f4987daeaf8b)
 
 
 ## Run Locally
